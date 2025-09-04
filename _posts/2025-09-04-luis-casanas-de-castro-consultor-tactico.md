@@ -12,7 +12,7 @@ tags: [consultoría táctica, material policial y militar, product management, s
 
 ## Ejemplo de equipamiento policial
 
-![Chaleco antibalas policial con corte láser y placa del CNP]( {{ "/assets/img/chaleco-policia.webp" | relative_url }} )
+![Chaleco antibalas policial con corte láser y placa del CNP]( {{ "/assets/img/chaleco.jpg" | relative_url }} )
 
 ![Agente portando chaleco antibalas de dotación oficial]( {{ "/assets/img/chaleco-policia-uso.jpg" | relative_url }} )
 
