@@ -38,4 +38,4 @@ A nivel personal, acumula **más de 20 años** como **tirador deportivo** en dis
 
 ---
 
-*Palabras clave sugeridas*: consultor táctico, material policial, material militar, product manager, Safariland, Streamlight, MSA, AXON, TASER 7, AXON Body 3, Guardia Civil, Policía Nacional, Policía Municipal de Madrid, cascos balísticos, protección balística, plate carrier, FFCCSE.
+*Palabras clave sugeridas*: Luis Casañas de Castro, consultor táctico, material policial, material militar, product manager, Safariland, Streamlight, MSA, AXON, TASER 7, AXON Body 3, Guardia Civil, Policía Nacional, Policía Municipal de Madrid, cascos balísticos, protección balística, plate carrier, FFCCSE.
