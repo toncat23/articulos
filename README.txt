@@ -1,6 +1,4 @@
-Paso 1 — Estructura mínima para GitHub Pages (Jekyll) + SEO
-
-1) Sube todo el contenido de esta carpeta al repo: toncat23/articulos
-2) Activa GitHub Pages: Settings → Pages → Deploy from a branch → main / (root)
-3) Opcional: pon logo.png y og.jpg en assets/img/
-4) Edita _config.yml si quieres cambiar título/description o añadir google_site_verification
+Instrucciones:
+1) Sube la carpeta _posts y assets/img a tu repo toncat23/articulos (mantén la misma estructura).
+2) Sobrescribe el archivo del post si ya existe con el mismo nombre.
+3) Haz Commit. GitHub Pages reconstruirá el sitio y verás las imágenes en el artículo.
