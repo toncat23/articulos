@@ -1,4 +1,4 @@
-title: "Artículos de Luis Casañas"
+title: "Artículos de toncat23"
 description: "Artículos y notas técnicas."
 lang: es
 timezone: Europe/Madrid
@@ -18,11 +18,11 @@ logo: /assets/img/logo.png     # opcional
 image: /assets/img/og.jpg      # imagen por defecto para compartir
 
 author:
-  name: "Luis Casañas"
+  name: "toncat23"
   url: "https://toncat23.github.io/articulos/"
 
 social:
-  name: "Luis Casañas"
+  name: "toncat23"
   links:
     - "https://github.com/toncat23"
 
