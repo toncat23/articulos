@@ -1,21 +1,30 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  {%- seo -%} <!-- jekyll-seo-tag sigue usando site.title para metadatos -->
-  <link rel="sitemap" type="application/xml" href="{{ site.url }}{{ site.baseurl }}/sitemap.xml">
-  <style>
-    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,"Helvetica Neue",Arial,sans-serif;max-width:820px;margin:40px auto;padding:0 16px;line-height:1.6}
-    img{max-width:100%;height:auto}
-    pre,code{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace}
-  </style>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
-  <main>{{ content }}</main>
-  <hr>
-  <footer>
-    <!-- Pie vacío a propósito -->
+  <header>
+    <nav style="display:flex; align-items:center; gap:15px; padding:12px; background:#0b0e12;">
+      <a href="{{ site.baseurl }}/" style="color:#fff; text-decoration:none;">Inicio Blog</a>
+      <!-- Botón HOME añadido -->
+      <a href="https://toncat23.github.io/toncat23/" 
+         style="padding:8px 16px; background:#36a2ff; color:#001a2b; text-decoration:none; border-radius:6px; font-weight:bold;">
+        HOME
+      </a>
+    </nav>
+  </header>
+
+  <main class="page-content" aria-label="Content" style="padding:20px;">
+    {{ content }}
+  </main>
+
+  <footer style="text-align:center; padding:20px; font-size:14px; color:#aaa;">
+    © {{ site.time | date: "%Y" }} - {{ site.title }}
   </footer>
 </body>
 </html>
